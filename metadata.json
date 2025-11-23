@@ -1,0 +1,5 @@
+{
+  "name": "PromptWizard AI",
+  "description": "A professional AI prompt enhancer and generator. Transform basic ideas into engineered, high-fidelity prompts for Image Generation, LLMs, and Coding tasks using Google Gemini.",
+  "requestFramePermissions": []
+}
