@@ -7,8 +7,6 @@
 
 **PromptWizard AI** adalah alat *prompt engineering* berbasis web yang mengubah ide sederhana (1-2 kata) menjadi instruksi tingkat lanjut yang sangat detail. Aplikasi ini dirancang untuk memaksimalkan potensi AI Generatif seperti Midjourney, ChatGPT, dan GitHub Copilot.
 
-> 🚀 **Dikembangkan dengan Google AI Studio:** Proyek ini dibangun menggunakan kekuatan model **Gemini 2.5 Flash** melalui Google GenAI SDK, mendemonstrasikan kemampuan integrasi AI yang canggih dalam pengembangan web modern.
-
 ---
 
 ## ✨ Fitur & Panduan Konfigurasi
